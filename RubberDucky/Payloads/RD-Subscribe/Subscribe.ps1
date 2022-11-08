@@ -25,7 +25,7 @@
 
 # Enter your youtube channel URL here, but you should test this script with my URL first ;D
 
-$channel = "https://www.youtube.com/iamjakoby"
+$channel = "https://www.youtube.com/channel/UCyRLDYYSFbS-osmVchJLCxg"
 
 Add-Type -AssemblyName System.Windows.Forms
 $o=New-Object -ComObject WScript.Shell
